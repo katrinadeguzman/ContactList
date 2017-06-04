@@ -31,6 +31,7 @@
         NSString* email = [contact email];
         
         NSLog(@"%i: NAME: %@    EMAIL: %@",i, name, email);
+        i++;
     }
 }
 
